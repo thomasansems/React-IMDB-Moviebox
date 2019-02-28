@@ -23,7 +23,7 @@ class Search extends React.Component {
         };
     }
 
-    handleRadio({ selected }) {
+    handleRadio(selected) {
         this.setState({ inputPlot: selected });
     }
 
