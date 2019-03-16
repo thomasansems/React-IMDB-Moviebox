@@ -64,7 +64,6 @@ class App extends React.Component {
             <Router>
                 <div>
                     <Navigation />
-                    Hoi Joshua!
                     <Container>
                         <Route
                             exact
